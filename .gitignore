@@ -1,5 +1,5 @@
 # Allure
-.allure_results/*
+.allure_results
 
 # Pytest
 .pytest_cache
@@ -8,3 +8,7 @@ tests/.pytest_cache
 venv
 
 .idea/
+__pychache__
+utils/__pychache__
+utils/actions/__pychache__
+utils/page_objects/__pychache__
