@@ -1,0 +1,10 @@
+# Allure
+.allure_results/*
+
+# Pytest
+.pytest_cache
+tests/.pytest_cache
+
+venv
+
+.idea/
