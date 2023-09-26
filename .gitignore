@@ -1,0 +1,18 @@
+# Allure
+.allure-results/
+
+# Pytest
+.pytest_cache/
+tests/.pytest_cache/
+
+# Python virtual environment
+venv/
+
+# IDE-specific files
+.idea/
+
+# Compiled Python files
+__pycache__/
+utils/__pycache__/
+utils/actions/__pycache__/
+utils/page_objects/__pycache__/
